@@ -117,7 +117,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavithrathiraviyaraj&theme=dark&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?username=pavithrathiraviyaraj&theme=dark&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" alt="GitHub Streak" />
 
 </div>
 
@@ -129,10 +129,11 @@
 
 <div align="center">
 
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pavithrathiraviyaraj/pavithrathiraviyaraj/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pavithrathiraviyaraj/pavithrathiraviyaraj/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/pavithrathiraviyaraj/pavithrathiraviyaraj/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sabariyuhendh/sabariyuhendh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sabariyuhendh/sabariyuhendh/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sabariyuhendh/sabariyuhendh/output/github-snake.svg" />
 </picture>
 
 </div>  
